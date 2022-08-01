@@ -16,6 +16,10 @@ See below for a video of movie-stimuli and subject event synchronization, as wel
 
 
 
+https://user-images.githubusercontent.com/59493314/182236428-5e0db36d-9c88-4877-aa7a-9a5d7ea656c7.mp4
+
+
+
 Other relevant event-related papers:
 
 Zamani Esfahlani, F., Jo, Y., Faskowitz, J., Byrge, L., Kennedy, D. P., Sporns, O., & Betzel, R. F. (2020). High-amplitude cofluctuations in cortical activity drive functional connectivity. Proceedings of the National Academy of Sciences, 117(45), 28393-28401.
