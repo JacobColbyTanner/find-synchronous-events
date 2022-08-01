@@ -14,7 +14,6 @@ Tanner, J. C., Faskowitz, J., Byrge, L., Kennedy, D., Sporns, O., & Betzel, R. (
 
 See below for a video of movie-stimuli and subject event synchronization, as well as the mean cofluctuation pattern at each frame:
 
-[![Watch the video]]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/1Mhph-QkSX0))
 
 
 Other relevant event-related papers:
