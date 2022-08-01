@@ -19,6 +19,8 @@ See below for a video of movie-stimuli and subject event synchronization, as wel
 https://user-images.githubusercontent.com/59493314/182236428-5e0db36d-9c88-4877-aa7a-9a5d7ea656c7.mp4
 
 
+For full video, click the following link: 
+https://youtu.be/1Mhph-QkSX0
 
 Other relevant event-related papers:
 
