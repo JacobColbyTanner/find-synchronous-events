@@ -12,15 +12,32 @@ Included with this code is example data that can be used to demo the code.  (The
 
 Tanner, J. C., Faskowitz, J., Byrge, L., Kennedy, D., Sporns, O., & Betzel, R. (2022). Synchronous high-amplitude co-fluctuations of functional brain networks during movie-watching. bioRxiv.
 
-See below for a video of movie-stimuli and subject event synchronization, as well as the mean cofluctuation pattern at each frame:
+See below for a video of movie-stimuli and subject event synchronization, as well as the mean cofluctuation patterns (across subjects) at each frame:
 
 
 
 https://user-images.githubusercontent.com/59493314/182236428-5e0db36d-9c88-4877-aa7a-9a5d7ea656c7.mp4
 
 
+Note that the increased mean cofluctuation values (across subjects) during the synchronization peaks in the bottom panel result from the strong positive linear relationship between inter-subject network similarity and synchronous events (see Fig. 4 i & j).
+
 For full video, click the following link: 
 https://youtu.be/1Mhph-QkSX0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Other relevant event-related papers:
 
