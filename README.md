@@ -9,7 +9,7 @@ This code can be used on any preprocessed and parcellated fMRI BOLD data where p
 Included with this code is example data that can be used to demo the code.  (The example data provided here was also used as our replication dataset in the paper referenced below)
 
 
-
+If you use this code in your paper, please cite:
 Tanner, J. C., Faskowitz, J., Byrge, L., Kennedy, D., Sporns, O., & Betzel, R. (2022). Synchronous high-amplitude co-fluctuations of functional brain networks during movie-watching. bioRxiv.
 
 See below for a video of movie-stimuli and subject event synchronization, as well as the mean cofluctuation patterns (across subjects) at each frame:
@@ -20,6 +20,8 @@ https://user-images.githubusercontent.com/59493314/182236428-5e0db36d-9c88-4877-
 
 
 Note that the increased mean cofluctuation values (across subjects) during the synchronization peaks in the bottom panel result from the strong positive linear relationship between inter-subject network similarity and synchronous events (see Fig. 4 i & j).
+
+Not also that synchronization appears to occur during highly salient scenes (e.g. a kiss, a wedding, a child)
 
 For full video, click the following link: 
 https://youtu.be/1Mhph-QkSX0
