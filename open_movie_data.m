@@ -13,7 +13,7 @@ function outputs = open_movie_data(num_subjects,numtime,scans)
 %num_subjects= 25
 
 % directory where data lives
-datadir = 'preprocessed_BOLD_time_series\movie';
+datadir = 'preprocessed_BOLD_time_series/movie';
 
 %directory for functions
 addpath('functions')  
